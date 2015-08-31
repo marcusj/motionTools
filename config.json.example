@@ -1,0 +1,9 @@
+{
+  "webcam_dir":  "/mnt/webcam/motion",
+  "subject": "Motion detected",
+  "gmail_address": "yourname@gmail.com",
+  "gmail_password": "verygoodpassword",
+  "max_days": 8,
+  "recipients": ["yourname@mail.com", "yourneighbour@gmail.com", 
+    "yourmum@gmail.com"]
+}
